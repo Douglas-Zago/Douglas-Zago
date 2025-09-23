@@ -1,9 +1,9 @@
 ### Olá, eu sou o Douglas! 👋
 
 <p align="left">
-  Sou um profissional de Suporte Técnico em transição para a carreira de Desenvolvedor de Software. 
-  <br>
-  Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na faculdade Senac. Sou apaixonado por tecnologia e busco constantemente aprender e me aprimorar para me tornar um profissional de qualidade, criando soluções que resolvem problemas reais.
+  Sou um profissional de Suporte Técnico em transição para a carreira de Desenvolvedor. Já aplico minhas habilidades em um ambiente profissional, onde <strong>desenvolvi e implementei uma ferramenta de automação em Python que está em produção</strong>, otimizando o processo de prospecção do time comercial.
+  <br><br>
+  Cursando Análise e Desenvolvimento de Sistemas, busco minha primeira oportunidade para continuar criando soluções de alto impacto.
 </p>
 
 ---
@@ -34,10 +34,10 @@
 ### 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
-  <a href="https://github.com/Douglas-Zago">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Douglas-Zago&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=contribs"/>
-  </a>
-  <a href="https://github.com/Douglas-Zago">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-Zago&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
+  <a href="https://github.com/Douglas-Zago">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Douglas-Zago&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=contribs"/>
+  </a>
+  <a href="https://github.com/Douglas-Zago">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-Zago&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
 </p>
