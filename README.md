@@ -38,16 +38,3 @@ Estou aberto a oportunidades como **Desenvolvedor Backend, Frontend ou Full Stac
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
-
----
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <a href="https://github.com/Douglas-Zago">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Douglas-Zago&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=contribs"/>
-  </a>
-  <a href="https://github.com/Douglas-Zago">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-Zago&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</p>
